@@ -1,1 +1,1 @@
-Site para uma Pet Shop.
+Site para uma Pet Shop utilizando Bootstrap.
